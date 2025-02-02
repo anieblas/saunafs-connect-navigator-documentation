@@ -9,7 +9,7 @@ This document provides instructions to install and set up **SaunaFS Navigator AP
 ### **Step 1: Download the Installer**
 1. Download the latest version of the **SaunaFS Navigator API Installer** from one of the following sources:
    - **GitHub Releases:** [GitHub Repository](https://github.com/anieblas/saunafs-navigator-api/releases)
-   - **Company Nexus Repository:** [Nexus Repository](<INSERT_NEXUS_REPO_URL_HERE>)
+   - **Leil Nexus Repository:** [Nexus Repository](<INSERT_NEXUS_REPO_URL_HERE>)
 2. Ensure you have **root or sudo privileges** on the Linux server before proceeding.
 
 ### **Step 2: Install the Package**
