@@ -20,8 +20,7 @@ Welcome to the **SaunaFS Project Suite**, a collection of tools designed to enha
 1. **Users run SaunaFSConnect** on their Windows machines, which consists of:
    - **SaunaFSConnect GUI** (React + Electron desktop app) for user interaction.
    - **SaunaFSConnect API** (Node.js + Express service) that communicates with the central SaunaFS system.
-
-2. **SaunaFSConnect API** sends requests to **SaunaFS Navigator API (sfsmaster)**, which acts as the main backend storing user information, configurations, and access control settings.
+2. **SaunaFSConnect API** sends requests to **SaunaFS Navigator API**, which acts as the main backend storing user information, configurations, and access control settings.
 
 3. **SaunaFS Navigator API** processes and stores data, ensuring all connected clients receive updates. It also interacts with the **SaunaFS Navigator (hosted web application)**, which serves as the admin panel.
 
@@ -53,19 +52,12 @@ Below is a schematic representation of how the SaunaFS projects interact:
 
 ## **📡 API Documentation**  
 
-> 📖 *Check out the API references:*  
-- [saunafs-connect-api Docs](./saunafs-connect-api/README.md)  
-- [saunafs-navigator-api Docs](./saunafs-navigator-api/README.md)  
+The API documentation for **saunafs-connect-api** and **saunafs-navigator-api** is automatically generated using Swagger. After starting the respective applications, you can access the API documentation at:
 
----
+- **SaunaFS Connect API:** `http://localhost:<PORT>/api-docs`
+- **SaunaFS Navigator API:** `http://localhost:<PORT>/api-docs`
 
-## **🤝 Contributing**  
-
-We welcome contributions! Please follow these steps:  
-1. Fork the repository  
-2. Create a new branch (`feature/new-feature`)  
-3. Commit your changes  
-4. Open a Pull Request  
+*(Replace `<PORT>` with the actual port number configured in each service.)*
 
 ---
 
