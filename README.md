@@ -60,13 +60,13 @@ The API documentation for **saunafs-connect-api** and **saunafs-navigator-api** 
 - **SaunaFS Connect API:** `http://localhost:<PORT>/api-docs`
 - **SaunaFS Navigator API:** `http://localhost:<PORT>/api-docs`
 
-*(Replace `<PORT>` with the actual port number configured in each service.)*
+*(Replace `<PORT>` with the actual port number configured in each service. Default its 3001)*
 
 ---
 
 ## **📄 License**  
 
-> 📝 *To be defined* (Add a license type, e.g., MIT, GPL)
+> 📝 *To be defined*
 
 ---
 
@@ -80,7 +80,3 @@ For issues or questions, open an issue in the respective GitHub repository.
 - [SaunaFS Website](#) *(Add the real link if applicable)*  
 - [SaunaFS Documentation](#) *(If there’s external documentation available)*  
 
----
-
-### **Next Steps**  
-Would you like me to add more details, such as **installation steps, API routes, or example usage**? Let me know! 🚀
