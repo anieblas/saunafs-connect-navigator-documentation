@@ -45,8 +45,11 @@ Below is a schematic representation of how the SaunaFS projects interact:
 ---
 
 ## **📥 Installation & Setup**  
+This section provides an overview of the installation process for the SaunaFS components. Each project has its own setup requirements, which are detailed in separate installation guides. Please refer to the respective guide based on the components you are setting up.
 
-> 🚧 *Coming soon...* (Add instructions for setting up each project)
+### **Installation Guides** ( in progress )
+- **SaunaFS Connect & Connect API Installation:** [Installation Guide](./SUANAFS-CONNECT-SETUP.md) – Covers the installation of the Windows desktop application and its API service.
+- **SaunaFS Navigator & Navigator API Installation:** [Installation Guide](./SUANAFS-NAVIGATOR-SETUP.md) – Covers the installation of the web-based administration tool and its API service.  
 
 ---
 
