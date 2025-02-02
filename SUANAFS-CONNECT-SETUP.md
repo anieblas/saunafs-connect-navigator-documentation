@@ -9,8 +9,8 @@ This document provides instructions to install and set up **SaunaFS Connect** (W
 ### **Step 1: Download the Installer**
 1. Download the latest version of the **SaunaFS Connect Installer** from one of the following sources:
    - **GitHub Releases:** [GitHub Repository](https://github.com/anieblas/saunafs-connect-gui/releases)
-   - **Company Nexus Repository:** [Nexus Repository](https://repo2.saunafs.com/#browse/browse:saunafs-windows-connect)
-   - **Company Nexus Dev Repository:** [Nexus Repository](https://repo2.saunafs.com/#browse/browse:saunafs-windows-connect-dev)
+   - **Leil Nexus Repository:** [Nexus Repository](https://repo2.saunafs.com/#browse/browse:saunafs-windows-connect)
+   - **Leil Nexus Dev Repository:** [Nexus Repository](https://repo2.saunafs.com/#browse/browse:saunafs-windows-connect-dev)
 2. Ensure you have **administrator privileges** on the Windows machine before proceeding.
 
 ### **Step 2: Run the Installer**
@@ -64,4 +64,4 @@ Once the SaunaFS Connect API service is running, you can access the API document
 ```plaintext
 http://localhost:<PORT>/api-docs
 ```
-*(Replace `<PORT>` with the actual port number configured in the service.)*
+*(Replace `<PORT>` with the actual port number configured in the service. Default 3001)*
