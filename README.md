@@ -50,7 +50,7 @@ This section provides an overview of the installation process for the SaunaFS co
 
 ### **Installation Guides** ( in progress )
 - **SaunaFS Connect & Connect API Installation:** [Installation Guide](./SUANAFS-CONNECT-SETUP.md) – Covers the installation of the Windows desktop application and its API service.
-- **saunafs-navigator-web & saunafs-navigator-api Installation:** [Installation Guide](./SUANAFS-NAVIGATOR-SETUP.md) – Covers the installation of the web-based administration tool and its API.  
+- **saunafs-navigator-api Installation:** [Installation Guide](./SUANAFS-NAVIGATOR-SETUP.md) – Covers the installation of the web-based administration tool and its API.  
 
 ---
 
